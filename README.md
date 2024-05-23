@@ -67,10 +67,19 @@
 
 Vitor Hugo Mota Soares 
 
+#   Overview
 
+## Git init
 
+*1º open your cmd or any other shell*
 
+*2º go to your root directory*
 
+*3º just type command below to init your local repository*
+
+```
+git init
+```
 
 
 
