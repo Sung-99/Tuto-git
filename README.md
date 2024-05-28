@@ -81,6 +81,25 @@ Vitor Hugo Mota Soares
 git init
 ```
 
+*Now you have a LOCAL git repository to track your work, but not tracking anything yet.*
+
+<hr>
+
+## Git status
+
+*1º open your cmd or any other shell*
+
+*2º go to your root directory(the one you typed git init)*
+
+*3º you'll notice a (master) at the end of local information on cmd, what means your LOCAL repository have a master ALIAS to be tracked.*
+
+*4º type the command below*
+
+```
+git status
+```
+
+*Will be displayed to you new, edited or deleted files on your repository and what might be commited.*
 
 
 
