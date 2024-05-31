@@ -101,6 +101,20 @@ git status
 
 *Will be displayed to you new, edited or deleted files on your repository and what might be commited.*
 
+## Git remote add
+
+*1º on your cmd or any other shell*
+
+*2º in your root directory(the one you typed git init)*
+
+*4º type the command below*
+
+```
+git remote add "link of your remote repository"
+```
+
+*Now your local repository is linked with your remote repository, where you will be able to send all files.*
+
 
 
 [Fóco-shield]: https://img.shields.io/badge/F%C3%B3co--silver?style=for-the-badge&logoColor=white&labelColor=orange
