@@ -112,7 +112,8 @@ git status
 ```
 git remote add "link of your remote repository"
 ```
-*change all in "" to your repository's link
+
+*Change all in "" to your repository's link*
 
 *Now your local repository is linked with your remote repository, where you will be able to send all files.*
 
