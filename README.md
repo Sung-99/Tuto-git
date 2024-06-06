@@ -117,6 +117,18 @@ git remote add "link of your remote repository"
 
 *Now your local repository is linked with your remote repository, where you will be able to send all files.*
 
+## Git pull
+
+*1º on your cmd or any other shell*
+
+*2º in your root directory type the command below:*
+
+```
+git pull
+```
+
+*It is just a way of pull all work from remote repo, but be aware that it jump fetch and pull ordinary process, so this way tend fetch your work with no guarentee validation*
+
 
 
 [Fóco-shield]: https://img.shields.io/badge/F%C3%B3co--silver?style=for-the-badge&logoColor=white&labelColor=orange
