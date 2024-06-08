@@ -139,7 +139,7 @@ git pull
 git push
 ```
 
-*It is just a way of push all work to remote repo*
+*It is just a way of push all work to remote repo.*
 
 
 
