@@ -142,7 +142,7 @@ git push
 
 *It is just a way of push all work to remote repo.*
 
-### Git push master:diffRep
+### 1.0 Git push master:diffRep
 
 *1º if your intend to push to a different remote rep it is necessary to type down the local rep first*
 
