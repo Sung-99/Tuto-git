@@ -131,6 +131,7 @@ git pull
 
 ## Git push
 
+
 *1º on your cmd or any other shell*
 
 *2º in your root directory type the command below:*
@@ -141,6 +142,17 @@ git push
 
 *It is just a way of push all work to remote repo.*
 
+### Git push
+
+*1º if your intend to push to a different remote rep it is necessary to type down the local rep first*
+
+*2º type the command below:*
+
+```
+git push master:diffRep
+```
+
+*'master' is your local repository and 'diffReo' is your other remote repository.*
 
 
 [Fóco-shield]: https://img.shields.io/badge/F%C3%B3co--silver?style=for-the-badge&logoColor=white&labelColor=orange
