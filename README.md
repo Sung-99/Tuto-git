@@ -154,6 +154,52 @@ git push master:diffRep
 
 *'master' is your local repository and 'diffReo' is your other remote repository.*
 
+## Git add
+
+
+*1º on your cmd or any other shell*
+
+*2º in your root directory type the command below:*
+
+```
+git add
+```
+
+*after this command all your work will be placed on stage status, means they are ready to be commited*
+
+*it is a good pratice to see with "git status" beforehand, so you will be presented with updated(on your work) content edited(in red)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Fóco-shield]: https://img.shields.io/badge/F%C3%B3co--silver?style=for-the-badge&logoColor=white&labelColor=orange
 [git-logo]:https://img.shields.io/badge/Git--black?style=for-the-badge&logo=git&logoColor=black
