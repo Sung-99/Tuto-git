@@ -162,14 +162,22 @@ git push master:diffRep
 *2º in your root directory type the command below:*
 
 ```
-git add
+git add filename.hisextention
 ```
 
 *after this command all your work will be placed on stage status, means they are ready to be commited*
 
 *it is a good pratice to see with "git status" beforehand, so you will be presented with updated(on your work) content edited(in red)*
 
+## Git add
 
+*2º If you intend to add all staged files, type command below:*
+
+```
+git add .
+```
+
+*only with the dot in the end all files will be added at once.*
 
 
 
