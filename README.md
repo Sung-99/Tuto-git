@@ -169,7 +169,7 @@ git add filename.hisextention
 
 *it is a good pratice to see with "git status" beforehand, so you will be presented with updated(on your work) content edited(in red)*
 
-## Git add
+### 1.0 Git add
 
 *2º If you intend to add all staged files, type command below:*
 
