@@ -127,7 +127,7 @@ git remote add "link of your remote repository"
 git pull
 ```
 
-*It is just a way of pull all work from remote repo, but be aware that it jump fetch and pull ordinary process, so this way tend fetch your work with no guarentee validation*
+*It is just a way of pull all work from remote repo, but be aware that it jump fetch and pull ordinary process, so this way tend fetch your work with no guarentee safety*
 
 ## Git push
 
@@ -171,7 +171,7 @@ git add filename.hisextention
 
 ### 1.0 Git add
 
-*2º If you intend to add all staged files, type command below:*
+*1º If you intend to add all staged files, type command below:*
 
 ```
 git add .
