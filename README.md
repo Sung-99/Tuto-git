@@ -154,6 +154,8 @@ git push master:diffRep
 
 *'master' is your local repository and 'diffReo' is your other remote repository.*
 
+### 1.1 Git push
+
 ## Git add
 
 
