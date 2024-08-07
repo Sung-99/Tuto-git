@@ -1,37 +1,4 @@
 {
-    "commands - git-add": [
-      {
-        "_comment":"",
-        "1. git push":"git add filename.hisextention",
-        "1.1 git push":"git add ."
-      }
-    
-    ],
-    "commands - git-push": [
-      {
-        "_comment":"it is about push directly to a remote rep, remembet that git push lead to remote master default rep",
-        "1. git push":"git push master:diffRep"
-      }
-      
-    ],
-    "commands - git-config": [
-        {
-          
-        }
-        
-      ],
-    "commands - git-pull": [
-        {
-          "_comment": "Next command is about to pull directed from a serverSide on git",
-           "1. Type": "git pull remoteServerName"
-        } 
-        
-      ],
-      "commands - git-commit": [
-        {
-          
-        }
-        
-      ]
+    "_comment": "incoming news datas"
    
 }
