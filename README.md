@@ -142,19 +142,6 @@ git push
 
 *It is just a way of push all work to remote repo.*
 
-### 1.0 Git push 
-
-*1º if your intend to push to a different remote rep it is necessary to type down the local rep first*
-
-*2º type the command below:*
-
-```
-git push master:diffRep
-```
-
-*'master' is your local repository and 'diffReo' is your other remote repository.*
-
-### 1.1 Git push
 
 ## Git add
 
@@ -171,15 +158,7 @@ git add filename.hisextention
 
 *it is a good pratice to see with "git status" beforehand, so you will be presented with updated(on your work) content edited(in red)*
 
-### 1.0 Git add
 
-*1º If you intend to add all staged files, type command below:*
-
-```
-git add .
-```
-
-*only with the dot in the end all files will be added at once.*
 
 
 
