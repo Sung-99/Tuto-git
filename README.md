@@ -32,7 +32,7 @@
 
 *Development*
 
-## Step by Step personally tutorial
+## Problems solutions(Maybe)
 
 *Remote idea about git and implementments so far
 
@@ -69,94 +69,16 @@ Vitor Hugo Mota Soares
 
 #   Overview
 
-## Git init
-
-*1º open your cmd or any other shell*
-
-*2º go to your root directory*
-
-*3º just type command below to init your local repository*
-
-```
-git init
-```
-
-*Now you have a LOCAL git repository to track your work, but not tracking anything yet.*
-
-<hr>
-
-## Git status
-
-*1º open your cmd or any other shell*
-
-*2º go to your root directory(the one you typed git init)*
-
-*3º you'll notice a (master) at the end of local information on cmd, what means your LOCAL repository have a master ALIAS to be tracked.*
-
-*4º type the command below*
-
-```
-git status
-```
-
-*Will be displayed to you new, edited or deleted files on your repository and what might be commited.*
-
-## Git remote add
-
-*1º on your cmd or any other shell*
-
-*2º in your root directory(the one you typed git init)*
-
-*4º type the command below*
-
-```
-git remote add "link of your remote repository"
-```
-
-*Change all in "" to your repository's link*
-
-*Now your local repository is linked with your remote repository, where you will be able to send all files.*
-
-## Git pull
-
-*1º on your cmd or any other shell*
-
-*2º in your root directory type the command below:*
-
-```
-git pull
-```
-
-*It is just a way of pull all work from remote repo, but be aware that it jump fetch and pull ordinary process, so this way tend fetch your work with no guarentee safety*
-
 ## Git push
 
+*Possible problems might happen from a push*
 
-*1º on your cmd or any other shell*
-
-*2º in your root directory type the command below:*
 
 ```
-git push
+command: git push
 ```
 
-*It is just a way of push all work to remote repo.*
 
-
-## Git add
-
-
-*1º on your cmd or any other shell*
-
-*2º in your root directory type the command below:*
-
-```
-git add filename.hisextention
-```
-
-*after this command all your work will be placed on stage status, means they are ready to be commited*
-
-*it is a good pratice to see with "git status" beforehand, so you will be presented with updated(on your work) content edited(in red)*
 
 
 
