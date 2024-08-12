@@ -79,6 +79,9 @@ command: git push
 ```
 
 
+*It's normal when we try push something and something akward happens, like "Failed to push so refs remote", there are some reasons that
+might happen, i'm gonna list some of them.*
+
 
 
 
