@@ -79,8 +79,7 @@ command: git push
 ```
 
 
-*It's normal when we try push something and something akward happens, like "Failed to push so refs remote", there are some reasons that
-might happen, i'm gonna list some of them.*
+*It's normal when we try push something and something akward happens, like "Failed to push so refs remote", "fatal: You are pushing to remote 'master', which is not the upstream of your current branch 'master', without telling me what to push to update which remote branch." there are some reasons that might happen, i'm gonna list some of them.*
 
 
 
